@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>menggunakan ordered list</title>
+    </head>
+        <body>
+        <h3> menggunakan ordered list </h3>
+        <hr>
+        <h4> ordered list menggunakan type default </h4>
+        <ol>
+            <li> Agung Nugronho </li>
+            <li> Mulya Sulityono</li>
+            <li> Bernadhed</li>
+        </ol>
+
+        <h4> ordered list menggunakan type a </h4>
+        <ol type = "a">
+            <li> Agung Nugronho </li>
+            <li> Mulya Sulityono</li>
+            <li> Bernadhed</li>
+        </ol>
+
+        <h4> ordered list menggunakan type I </h4>
+        <ol type = "I">
+            <li> Agung Nugronho </li>
+            <li> Mulya Sulityono</li>
+            <li> Bernadhed</li>
+        </ol>
+
+        <h4> ordered list menggunakan type Atribut start </h4>
+        <ol start = "14">
+            <li> Agung Nugronho </li>
+            <li> Mulya Sulityono</li>
+            <li> Bernadhed</li>
+        </ol>
+        </body>
+</html>

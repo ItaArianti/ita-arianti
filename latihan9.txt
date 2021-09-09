@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PENGGUNAAN LISTING</title>
+    </head>
+        <body>
+        <h3> menggunakan unordered list </h3>
+        <hr>
+        <h4> unordered list dengan type default </h4>
+        <ul type = "default">
+            <li> Agung Nugronho </li>
+            <li> Mulya Sulityono</li>
+            <li> Bernadhed</li>
+        </ul>
+
+        <h4> unordered list dengan type circle </h4>
+        <ul type = "circle">
+            <li> Agung Nugronho </li>
+            <li> Mulya Sulityono</li>
+            <li> Bernadhed</li>
+        </ul>
+
+        <h4> unordered list dengan type disc </h4>
+        <ul type = "disc">
+            <li> Agung Nugronho </li>
+            <li> Mulya Sulityono</li>
+            <li> Bernadhed</li>
+        </ul>
+
+        <h4> unordered list dengan type square </h4>
+        <ul type = "square">
+            <li> Agung Nugronho </li>
+            <li> Mulya Sulityono</li>
+            <li> Bernadhed</li>
+        </ul>
+        </body>
+</html>
